@@ -1,4 +1,4 @@
-# uMaze
+# uMaze v1
 a program to generate and solve a variety of mazes given
 
 ## Instructions
