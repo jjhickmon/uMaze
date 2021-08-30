@@ -2,4 +2,4 @@
 a program to generate and solve a variety of mazes given
 
 ## Instructions
-Just clone this repository and run uMaze.java
+Just download or clone this repository and run uMaze.java
