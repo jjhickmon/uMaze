@@ -1,4 +1,4 @@
-# FinalCS2: uMaze
+uMaze
 
 ## Description
 uMaze is a simple program to generate and solve mazes.
